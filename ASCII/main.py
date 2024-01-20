@@ -1,6 +1,3 @@
-import array
-
-
 def int2ascii(array):
     flag = ""
     for number in array:
